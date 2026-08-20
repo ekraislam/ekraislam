@@ -157,15 +157,6 @@ I am a Computer Science & Engineering undergraduate at **Green University of Ban
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekraislam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Ekra's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekraislam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-</p>
-
----
-
 ## 🔭 Current Focus
 
 *   **Deep Learning & Computer Vision:** Exploring neural network architectures for specialized domain applications and explainable AI.
@@ -185,15 +176,9 @@ I am a Computer Science & Engineering undergraduate at **Green University of Ban
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="mailto:ekraislamohi2023@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ekraislamohi2023%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/ekraislam">
-    <img src="https://img.shields.io/badge/GitHub-ekraislam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://ohi-workspace.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Interactive%20Developer%20Desk-0070f3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
+  <a href="mailto:ekraislamohi2023@gmail.com"><img src="https://img.shields.io/badge/Email-ekraislamohi2023%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/ekraislam"><img src="https://img.shields.io/badge/GitHub-ekraislam-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://ohi-workspace.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Interactive%20Developer%20Desk-0070f3?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
